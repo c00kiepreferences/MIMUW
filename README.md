@@ -3,7 +3,7 @@ Projects created for my University of Warsaw studies
 
 Repository contains folders named by the assignments I had to pass:
 
-## akso
+## AKSO
 computer architecture and operating systems
 II semester
 
