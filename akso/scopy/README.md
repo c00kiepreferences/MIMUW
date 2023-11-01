@@ -18,6 +18,6 @@ occuring during execution of a system call, or argument
 incompability, Program ends with a return value 1.
 
 Program is implemented using assembly x86  
-and it can be compiled using the following commands:
+and it can be compiled using the following commands:  
 nasm -f elf64 -w+all -w+error -o scopy.o scopy.asm  
 ld --fatal-warnings -o scopy scopy.o
