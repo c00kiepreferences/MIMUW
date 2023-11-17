@@ -1,6 +1,6 @@
 ## special file copying
 
-The program performs a modified operation of copying files.
+This program performs a modified operation of copying files.
 
 Program recieves two parameters:  
 the name of the input file and the name of the output file.  
