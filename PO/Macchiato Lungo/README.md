@@ -22,4 +22,4 @@ the code is eqquiped with a set of builder classes. The code
 also includes JUnit tests for each syntax construction  
 of Macchiato.
 
-This project recieved 9,75 pts out of 10.
+This project recieved 9.75 pts out of 10.
